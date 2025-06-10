@@ -6,7 +6,7 @@
         "path": "/",
         "hostOnly": false,
         "creation": "2025-06-09T13:26:20.178Z",
-        "lastAccessed": "2025-06-09T13:26:20.178Z"
+        "lastAccess
     },
     {
         "key": "sb",
